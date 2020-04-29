@@ -62,91 +62,23 @@
 > * Create a Callback (see article for specific examples)
 
 # [JavaScript Callback Functions](https://www.dashingd3js.com/lessons/javascript-callback-functions)
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
->   * 
-> * 
-> * 
-> * 
->   * 
->   * 
->   * 
->   * 
->       * 
->       * 
->       * 
->       * 
->       * 
->   * 
->   * 
->   * 
+> * Takeaways:
+>   * A JavaScript function is a block of code that will be executed when you call it
+>   * Because JavaScript functions are first-class objects, you can pass functions to other functions as variables
+>   * The method of passing in functions as parameters to other functions to use them inside is used in JavaScript libraries almost everywhere
+>   * A JavaScript Callback Function is a function that is passed as a parameter to another JavaScript function, and the callback function is run inside of the function it was passed into
+>   * JavaScript Callback Functions can be used synchronously or asynchronously
+>   * **The youtube video was super helpful and I'd like to explore this site more**
 
-# []()
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
+# [First class functions](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
 
-# []()
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
+# [MDN Callback function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
 
 ## Review: Classes
-# []()
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
+# [JavaScript classes](https://javascript.info/class)
 
-# []()
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
+# [Intro to Object-oriented programming in JavaScript](https://www.freecodecamp.org/news/an-intro-to-object-oriented-programming-in-javascript-objects-prototypes-and-classes-5d135e7361b1/)
+> * “An object is an instance of a class." This means that, using a class, I can create many objects and they all share methods and properties.
 
 ## Review: this
-# []()
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
-> * 
+# [Object methods, "this"](https://javascript.info/object-methods)
